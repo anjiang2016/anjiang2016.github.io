@@ -1,4 +1,4 @@
-## 欢迎来到明明老师的页面
+## 老师明明可以靠颜值
 
 You can use the [editor on GitHub](https://github.com/anjiang2016/anjiang2016.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
