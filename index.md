@@ -1,3 +1,8 @@
+# 老师明明可以靠颜值
+
+- 计算机视觉资深讲师
+- [YOLO系列公开课](https://www.bilibili.com/video/BV1FK4y1v7nB#reply3826689113)
+
 ## 老师明明可以靠颜值
 
 You can use the [editor on GitHub](https://github.com/anjiang2016/anjiang2016.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
