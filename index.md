@@ -1,5 +1,5 @@
 # 赵明明
-
+[cenos ssl error](https://pages.github.com/).
 - 2019/12至今 后厂理工/开课吧/计算机视觉资深讲师/曾任教研部负责人
 - - [YOLO系列公开课](https://www.bilibili.com/video/BV1FK4y1v7nB#reply3826689113)
 - - [RCNN系列公开课]()
